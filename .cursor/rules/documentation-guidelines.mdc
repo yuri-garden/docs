@@ -3,3 +3,28 @@ description:
 globs:
 alwaysApply: false
 ---
+# Documentation Guidelines
+
+## Structure
+- Documentation is organized in the `docs/` directory
+- Blog posts are stored in the `blog/` directory
+- Sidebar navigation is configured in [sidebars.ts](mdc:sidebars.ts)
+
+## Markdown Features
+- Use standard Markdown syntax
+- Support for MDX (JSX in Markdown)
+- Can import and use React components
+- Code blocks with syntax highlighting
+
+## Configuration
+Documentation settings are managed in [docusaurus.config.ts](mdc:docusaurus.config.ts):
+- Site metadata
+- Navigation structure
+- Theme configuration
+- Plugin settings
+
+## Best Practices
+- Use clear hierarchical structure
+- Include code examples where relevant
+- Leverage Docusaurus features like admonitions
+- Keep documentation up-to-date with code changes

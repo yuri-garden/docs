@@ -3,3 +3,23 @@ description:
 globs:
 alwaysApply: false
 ---
+# Project Structure
+
+This is a Docusaurus documentation site with the following key files and directories:
+
+## Core Configuration
+- [docusaurus.config.ts](mdc:docusaurus.config.ts) - Main configuration file for the Docusaurus site
+- [sidebars.ts](mdc:sidebars.ts) - Configures the documentation sidebar structure
+- [tsconfig.json](mdc:tsconfig.json) - TypeScript configuration
+
+## Content
+- `docs/` - Documentation content in Markdown format
+- `blog/` - Blog posts in Markdown format
+- `src/` - Custom React components and styling
+  - [src/components/HomepageFeatures/index.tsx](mdc:src/components/HomepageFeatures/index.tsx) - Homepage feature components
+- `static/` - Static assets like images
+
+## Development
+- `package.json` - Project dependencies and scripts
+- `.docusaurus/` - Build output (generated)
+- `node_modules/` - Installed dependencies

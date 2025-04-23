@@ -3,3 +3,25 @@ description:
 globs:
 alwaysApply: false
 ---
+# React Component Patterns
+
+This project follows standard React and Docusaurus component patterns:
+
+## Component Structure
+- Components are written in TypeScript using `.tsx` extension
+- Each component directory contains:
+  - `index.tsx` - Main component file
+  - `styles.module.css` - Component-specific styles
+
+## Best Practices
+- Use TypeScript interfaces/types for props
+- Leverage Docusaurus theme components (e.g., `@theme/Heading`)
+- Use CSS modules for component styling
+- Follow React functional component patterns
+
+## Example Components
+The [HomepageFeatures component](mdc:src/components/HomepageFeatures/index.tsx) demonstrates these patterns with:
+- TypeScript prop types
+- CSS module imports
+- Functional component structure
+- Docusaurus theme integration
