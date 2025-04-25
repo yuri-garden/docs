@@ -3,7 +3,7 @@ sidebar_position: 1
 
 ---
 
-# Chào mừng đến với Yuri Garden
+# Lời mở đầu
 
 Chào mừng bạn đến với tài liệu chính thức của **Yuri Garden**, hướng dẫn toàn diện giúp bạn khám phá và hiểu về thế giới truyện manga và light novel yuri.
 
@@ -22,7 +22,6 @@ Nếu bạn cần hỗ trợ hoặc có thắc mắc:
 
 - Facebook [Yuri Garden](https://www.facebook.com/yurigarden.page)
 - Tham gia [Cộng đồng Discord](https://discord.gg/g7QJGhfKu2)
-- Liên hệ đội ngũ hỗ trợ
 
 ## Cập Nhật Thường Xuyên
 
