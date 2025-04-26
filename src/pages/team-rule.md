@@ -31,6 +31,14 @@
 - Các truyện đã được xác định là độc quyền bởi tổ chức hoặc cá nhân khác cũng không được phép đăng tải lên web.
 - Việc độc quyền là một phần chiến lược kinh doanh quan trọng của các bên. Vì vậy, hãy tôn trọng điều này và không đăng lại nội dung lên web.
 
+## Quy định về đăng tải truyện
+
+- Chất lượng truyện phải đảm bảo rõ ràng, không bị mờ hoặc méo. Dung lượng mỗi ảnh không được vượt quá 7MB để đảm bảo tốc độ tải trang.
+- Nhóm dịch cần đăng ít nhất 1 tác phẩm trong một tháng kể từ khi nhận quyền upload.
+- Trong 3 tháng tác phẩm không đăng tải nội dung mới mà không có lí do thì quyền upload truyện sẽ được nhượng lại chó nhóm dịch khác. 
+- Trong 6 tháng nhóm dịch không đăng tải nội dung sẽ đổi trạng thái thành "Không hoạt động"
+
+
 **Nếu vi phạm Yuri Garden sẽ tiến hành các biện pháp để xử phạt đối với nhóm vi phạm. Tùy thuộc vào mức độ vi phạm của nhóm sẽ có các biện pháp xử phạt khác nhau**
 
 <div align="right">
