@@ -40,8 +40,8 @@ export default function Home(): ReactNode {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Welcome to ${siteConfig.title}`}
-      description="Explore our curated collection of yuri manga and literature"
+      title={`Tài liệu ${siteConfig.title}`}
+      description={`Tài liệu và hướng dẫn sử dụng ${siteConfig.title}`}
       wrapperClassName="homepage"
     >
       <HomepageHeader />

@@ -35,7 +35,7 @@
 
 - Chất lượng truyện phải đảm bảo rõ ràng, không bị mờ hoặc méo. Dung lượng mỗi ảnh không được vượt quá 7MB để đảm bảo tốc độ tải trang.
 - Nhóm dịch cần đăng ít nhất 1 tác phẩm trong một tháng kể từ khi nhận quyền upload.
-- Trong 3 tháng tác phẩm không đăng tải nội dung mới mà không có lí do thì quyền upload truyện sẽ được nhượng lại chó nhóm dịch khác. 
+- Trong 3 tháng tác phẩm không đăng tải nội dung mới mà không có lí do thì quyền upload truyện sẽ được nhượng lại cho nhóm dịch khác. 
 - Trong 6 tháng nhóm dịch không đăng tải nội dung sẽ đổi trạng thái thành "Không hoạt động"
 
 
