@@ -17,7 +17,7 @@
 
 ## Quy định về reup nội dung
 
-- Không được phép reup truyện của nhóm khác lên web nếu chưa có sự đồng ý rõ ràng từ nhóm đó. Mỗi chương truyện đều là kết quả của sự đầu tư thời gian và công sức quý giá. Xin hãy tôn trọng những nỗ lực đó.
+- Không được phép reup truyện của nhóm khác/nơi khác lên web nếu chưa có sự đồng ý rõ ràng từ nhóm đó. Mỗi chương truyện đều là kết quả của sự đầu tư thời gian và công sức quý giá của các nhóm. Xin hãy tôn trọng những nỗ lực đó.
 - Nếu nhóm muốn reup truyện, xin hãy liên hệ với đội ngũ admin để kiểm duyệt trước.
 - Hành vi reup trái phép sẽ bị xử lý nghiêm túc, có thể dẫn đến việc nhóm bị hạn chế quyền đăng tải, hoặc gỡ bỏ truyện vi phạm khỏi web. Tùy vào mức độ vi phạm, các biện pháp xử lý có thể bao gồm cảnh cáo hoặc cấm đăng tải vĩnh viễn.
 
