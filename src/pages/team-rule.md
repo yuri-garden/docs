@@ -21,6 +21,10 @@
 - Nếu nhóm muốn reup truyện, xin hãy liên hệ với đội ngũ admin để kiểm duyệt trước.
 - Hành vi reup trái phép sẽ bị xử lý nghiêm túc, có thể dẫn đến việc nhóm bị hạn chế quyền đăng tải, hoặc gỡ bỏ truyện vi phạm khỏi web. Tùy vào mức độ vi phạm, các biện pháp xử lý có thể bao gồm cảnh cáo hoặc cấm đăng tải vĩnh viễn.
 
+## Quy định về việc gắn donate
+
+- Các nhóm được tự do gắn donate hoặc sử dụng tính năng donate có sẵn trên web. **Tuy nhiên, để tôn trọng công sức của nhóm dịch gốc, các truyện reup từ nhóm khác không được phép gắn donate**.
+
 ## Quy định về nội dung có bản quyền
 
 - Những truyện đã được mua bản quyền bởi cá nhân hoặc tổ chức khác không được phép đăng tải trên web.
