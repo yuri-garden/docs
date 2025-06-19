@@ -22,7 +22,7 @@
 
 ## Quy định về việc gắn donate
 
-- Các nhóm được có thể tự do gắn QR donate của nhóm hoặc sử dụng [Tính năng donate](./docs/team/team_donate) có sẵn trên web. **Tuy nhiên, để tôn trọng công sức của nhóm dịch gốc, các truyện reup từ nhóm khác không được phép gắn donate**.
+- Các nhóm được có thể tự do gắn QR donate của nhóm hoặc sử dụng [Tính năng donate](https://docs.yurigarden.com/docs/team/team_donate) có sẵn trên web. **Tuy nhiên, để tôn trọng công sức của nhóm dịch gốc, các truyện reup từ nhóm khác không được phép gắn donate**.
 
 ## Quy định về nội dung có bản quyền
 
