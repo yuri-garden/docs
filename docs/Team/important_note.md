@@ -23,3 +23,9 @@ Dẫn đến có vài nhóm thường xuyên tạo mới mà không check các t
 **Ví dụ**: `Naomi` và `Naomii` tuy là một nhưng có nhiều các viết => Nếu các nhóm cứ tạo mới sẽ tạo ra vô số tên mặc dù tất cả đều là 1 tác giả
 
 **Các nhóm lưu ý khi thêm tác giả cho nhóm vui lòng kiểm tra kĩ các tác giả hiện có, nếu đã có thì hãy sử dụng không nên tạo mới bừa bãi**
+
+## Kích thước ảnh
+
+Hiện tại các nền tảng web chỉ load ảnh tốt nhất ở kích thước width < 1800 pixel. 
+
+Vì vậy khi nhóm upload truyện nếu width của ảnh > 1800 pixel thì **web sẽ tự động convert** xuống còn width = 1800 pixel.
