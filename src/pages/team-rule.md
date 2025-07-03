@@ -7,7 +7,6 @@
 - Mỗi nhóm phải có trách nhiệm với nội dung mà mình đăng lên, bao gồm việc xử lý các vấn đề phát sinh liên quan đến truyện.
 - Trong trường hợp có tranh chấp về nội dung, nhóm đăng tải phải phối hợp với các bên liên quan để giải quyết một cách thỏa đáng.
 - Nếu đăng tải một nội dung mới, nhóm cần kiểm tra nội dung đó có trên web hay không, tránh đăng trùng truyện với nhóm khác.
-- Cần kiểm tra kĩ lưỡng trước khi đăng tải, nội dung đăng tải cần được gắn đầy đủ thông tin truyện như: tác giả, tên truyện, tag thể loại,....
 
 ## Quy định về nội dung
 
