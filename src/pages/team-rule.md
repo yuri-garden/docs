@@ -21,7 +21,7 @@
 
 ## Quy định về việc gắn donate
 
-- Các nhóm được có thể tự do gắn QR donate của nhóm hoặc sử dụng [Tính năng donate](https://docs.yurigarden.com/docs/team/team_donate) có sẵn trên web. **Tuy nhiên, để tôn trọng công sức của nhóm dịch gốc, các truyện reup từ nhóm khác không được phép gắn donate**.
+- Các nhóm được có thể tự do gắn QR donate của nhóm hoặc sử dụng **[Tính năng donate](https://docs.yurigarden.com/docs/team/team_config)** có sẵn trên web. **Tuy nhiên, để tôn trọng công sức của nhóm dịch gốc, các truyện reup từ nhóm khác không được phép gắn donate**.
 
 ## Quy định về nội dung có bản quyền
 
@@ -37,9 +37,8 @@
 
 - Chất lượng truyện phải đảm bảo rõ ràng, không bị mờ hoặc méo. Dung lượng mỗi ảnh không được vượt quá 7MB để đảm bảo tốc độ tải trang.
 - Nhóm dịch cần phải có ít nhất 1 tác phẩm (trong một tháng kể từ khi nhận quyền upload)
-- Trong 3 tháng tác phẩm không đăng tải nội dung mới mà không có lí do. Nếu có yêu cầu từ nhóm dịch khác muốn tiếp tục bộ truyện đó thì admin sẽ cấp quyền upload cho nhóm dịch mới thông qua **Tính năng Collab nhóm** 
+- Trong 3 tháng tác phẩm không đăng tải nội dung mới mà không có lí do. Nếu có yêu cầu từ nhóm dịch khác muốn tiếp tục bộ truyện đó thì admin sẽ cấp quyền upload cho nhóm dịch mới thông qua **[Tính năng donate](https://docs.yurigarden.com/docs/team/team_collab)**
 - Trong 6 tháng nhóm dịch không hoạt động sẽ đổi trạng thái thành "Không hoạt động"
-
 
 **Nếu vi phạm Yuri Garden sẽ tiến hành các biện pháp để xử phạt đối với nhóm vi phạm. Tùy thuộc vào mức độ vi phạm của nhóm sẽ có các biện pháp xử phạt khác nhau**
 
