@@ -19,7 +19,7 @@ sidebar_position: 2
 
 ## Cấu hình credit
 
-- Nhóm có thể cấu hình credit để có thể tự động thêm vào ở cuối mỗi chapter.
+- Nhóm có thể thêm credit của nhóm để có thể tự động thêm vào ở cuối mỗi chapter của nhóm.
 - Nhóm có thể tùy chọn chapter hay truyện bất kì để hiển thị credit và donate. Chi tiết xem tại: [Cấu hình Truyện và Chapter](comic_config)
 
 **Cấu hình của nhóm**
@@ -28,5 +28,5 @@ sidebar_position: 2
 **Donate hiển thị ở nhóm**
 ![Donate](./images/team_donate/donate_team_view.png)
 
-**Donate sẽ hiển thị ở mỗi chapter**
+**Credit và Donate sẽ hiển thị ở mỗi chapter**
 ![Donate](./images/team_donate/donate_comic_view.png)
