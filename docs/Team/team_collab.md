@@ -8,7 +8,7 @@ Mục đích là có thể hợp tác giữa các nhóm để tạo ra những t
 
 ## Tổng quan
 
-Tính năng **Collab nhóm** cho phép các nhóm dịch thuật, scanlation khác nhau hợp tác với nhau trong việc sản xuất và phát hành truyện tranh. Điều này giúp tối ưu hóa nguồn lực và tận dụng thế mạnh của từng nhóm.
+Tính năng **Collab nhóm** cho phép các nhóm dịch thuật khác nhau hợp tác với nhau trong việc dịch truyện. Điều này giúp tối ưu hóa nguồn lực và tận dụng thế mạnh của từng nhóm.
 
 ## Cấu hình collab
 
