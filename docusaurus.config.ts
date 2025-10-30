@@ -110,7 +110,7 @@ const config: Config = {
         },
 
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Yuri Garden.`,
+      copyright: `Copyright © 2025 Yuri Garden.`,
     },
     prism: {
       theme: prismThemes.github,
