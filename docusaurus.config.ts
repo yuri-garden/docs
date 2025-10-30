@@ -20,8 +20,6 @@ const config: Config = {
   organizationName: 'yurigarden', // Usually your GitHub org/user name.
   projectName: 'docs-yuri-garden', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".

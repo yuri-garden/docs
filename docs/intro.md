@@ -49,5 +49,5 @@ Nếu bạn cần hỗ trợ hoặc muốn đóng góp ý kiến:
 
 ---
 
-Bây giờ, cùng bắt đầu khám phá nào! 👉 [Đi đến phần đầu tiên](./reading-intro.md)
+Bây giờ, cùng bắt đầu khám phá nào!
 
