@@ -1,5 +1,5 @@
 ---
-sidebar_position: 0
+sidebar_position: 2
 
 ---
 # Lưu ý quan trọng
@@ -14,7 +14,7 @@ Mình sẽ lấy ví dụ thực tế và dễ hiểu: Mỗi chapter truyện c�
 
 Vậy nên việc tối ưu hóa một trang truyện rất là quan trọng để nâng cao trải nghiệm của người đọc. Trên thực tế có rất nhiều cách để tối ưu hóa dung lượng ảnh mà không làm thay đổi chất lượng. Các nhóm có thể tra cứu và tham khảo thêm.
 
-## Thêm tên tác giả của truyện
+## Thêm tên tác giả hoặc họa sĩ của truyện
 
 Hiện tại trên web có thể tự do thêm mới tên tác giả do tác giả rất nhiều và không thể gôm lại hết được
 
@@ -26,6 +26,6 @@ Dẫn đến có vài nhóm thường xuyên tạo mới mà không check các t
 
 ## Kích thước ảnh
 
-Hiện tại các nền tảng web chỉ load ảnh tốt nhất ở kích thước width < 1800 pixel. 
+Hiện tại các nền tảng web chỉ load ảnh tốt nhất ở kích thước width < 1300 pixel. 
 
-Vì vậy khi nhóm upload truyện nếu width của ảnh > 1800 pixel thì **web sẽ tự động convert** xuống còn width = 1800 pixel.
+Vì vậy khi nhóm upload truyện nếu width của ảnh > 1300 pixel thì **web sẽ tự động convert** xuống còn width = 1300 pixel.
