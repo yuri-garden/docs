@@ -28,3 +28,59 @@
   --ifm-color-primary-lightest: #ffd1e3;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.cmdk-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.35);
+  backdrop-filter: blur(2px);
+  display: grid;
+  place-items: center;
+  z-index: 9999;
+}
+
+.cmdk-modal {
+  width: min(720px, 92vw);
+  background: var(--ifm-background-surface-color);
+  border-radius: 16px;
+  padding: 16px;
+  box-shadow: 0 10px 40px rgba(0,0,0,.2);
+  border: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.cmdk-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.cmdk-title {
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.cmdk-close {
+  border: none;
+  background: transparent;
+  font-size: 16px;
+  cursor: pointer;
+  color: var(--ifm-color-emphasis-600);
+}
+
+.cmdk-hint {
+  margin-top: 8px;
+  font-size: 12px;
+  color: var(--ifm-color-emphasis-600);
+  opacity: .8;
+}
+
+.navbar__search .navbar__search-input {
+  width: 100%;
+}
+
+.searchBar_RVTs {
+  width: 100%;
+}
+

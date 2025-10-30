@@ -21,7 +21,6 @@ const config: Config = {
   projectName: 'docs-yuri-garden', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -30,6 +29,49 @@ const config: Config = {
     defaultLocale: 'vi',
     locales: ['vi'],
   },
+
+  plugins: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        indexDocs: true,
+        indexBlog: false,
+        indexPages: false,
+        hashed: true,
+        docsRouteBasePath: ['/docs', '/policy', '/changeLog', '/faq'],
+        searchResultLimits: 8,
+        searchBarShortcut: false,
+        searchBarShortcutHint: false,
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'policy',
+        path: 'policy',
+        routeBasePath: 'policy',
+        sidebarPath: require.resolve('./policy/sidebar.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'changeLog',
+        path: 'changeLog',
+        routeBasePath: 'changeLog',
+        sidebarPath: require.resolve('./changeLog/sidebar.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'faq',
+        path: 'faq',
+        routeBasePath: 'faq',
+        sidebarPath: require.resolve('./faq/sidebar.js'),
+      },
+    ],
+  ],
 
   presets: [
     [
@@ -80,7 +122,27 @@ const config: Config = {
           position: 'left',
           label: 'Hướng dẫn',
         },
-        { to: '/team-rule', label: 'Rule đăng truyện', position: 'left' },
+        {
+          type: 'doc',
+          docsPluginId: 'policy',
+          docId: 'upload-rule',
+          label: 'Các chính sách',
+          position: 'left',
+        },
+        {
+          type: 'doc',
+          docsPluginId: 'faq',
+          docId: 'intro',
+          label: 'Câu hỏi thường gặp',
+          position: 'left',
+        },
+        {
+          type: 'doc',
+          docsPluginId: 'changeLog',
+          docId: 'intro',
+          label: 'Change Log',
+          position: 'left',
+        },
       ],
     },
     footer: {
@@ -100,11 +162,11 @@ const config: Config = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discord.gg/g7QJGhfKu2',
+              href: 'https://discord.yurigarden.com',
             },
             {
               label: 'Facebook',
-              href: 'https://www.facebook.com/yurigarden.page',
+              href: 'https://facebook.yurigarden.com',
             },
           ],
         },

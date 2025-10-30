@@ -34,7 +34,7 @@ function HomepageHeader() {
             <a className={styles.ctaBtn} href="/docs/intro">
               Bắt đầu ngay →
             </a>
-            <a className={styles.heroSecondaryBtn} href="#faq">
+            <a className={styles.heroSecondaryBtn} href="/faq/intro">
               Câu hỏi thường gặp
             </a>
           </div>
@@ -54,7 +54,7 @@ function HomepageHeader() {
             - Cách upload Chapter. <br />
             - Cách đặt tên Chapter. <br />
             <br />
-            <a className={styles.cardLink} href="#reader">
+            <a className={styles.cardLink} href="/docs/intro">
               Xem chi tiết <span className={styles.cardArrow}>→</span>
             </a>
           </div>
@@ -66,33 +66,34 @@ function HomepageHeader() {
         <div className={styles.sectionHeadingRow}>
           <div className={styles.sectionTitle}>Bắt đầu nhanh</div>
           <div className={styles.sectionDesc}>
-            3 mục quan trọng nhất nếu bạn mới dùng Yuri Garden.
+            Những gì bạn cần biết để bắt đầu sử dụng Yuri Garden.
           </div>
         </div>
 
         <div className={styles.quickStartGrid}>
           {/* Card 1 */}
           <div className={styles.cardItem} id="reader">
-            <div className={styles.cardIcon}>📱</div>
-            <div className={styles.cardTitle}>Dành cho nhóm dịch</div>
+            <div className={styles.cardIcon}>📚</div>
+            <div className={styles.cardTitle}>Hướng dẫn sử dụng</div>
             <div className={styles.cardText}>
               Hướng dẫn lấy quyền đăng truyện, cách upload Chapter, cách đặt tên
               Chapter.
             </div>
-            <a className={styles.cardLink} href="#">
+            <a className={styles.cardLink} href="/docs/intro">
               Mở hướng dẫn <span className={styles.cardArrow}>→</span>
             </a>
           </div>
 
           {/* Card 2 */}
           <div className={styles.cardItem} id="uploader">
-            <div className={styles.cardIcon}>🖼️</div>
-            <div className={styles.cardTitle}>Thay đổi gần đây</div>
+            <div className={styles.cardIcon}>🛡️</div>
+            <div className={styles.cardTitle}>Các chính sách</div>
             <div className={styles.cardText}>
-              Các thay đổi gần đây trên Yuri Garden. Các phiên bản cập nhật và
-              thay đổi của web.
+              Các chính sách của Yuri Garden. Các quy định về đăng truyện, quy
+              tắc cộng đồng, chính sách bảo mật vả điều khoảng sử đụng và các
+              vấn đề khác.
             </div>
-            <a className={styles.cardLink} href="#">
+            <a className={styles.cardLink} href="/policy/upload-rule">
               Xem từng bước <span className={styles.cardArrow}>→</span>
             </a>
           </div>
@@ -105,8 +106,21 @@ function HomepageHeader() {
               Những câu hỏi thường gặp về Yuri Garden. Các câu hỏi thường gặp về
               truyện, chapter, upload, và các vấn đề khác.
             </div>
-            <a className={styles.cardLink} href="#">
+            <a className={styles.cardLink} href="/faq/intro">
               Đọc câu trả lời <span className={styles.cardArrow}>→</span>
+            </a>
+          </div>
+
+          {/* Card 2 */}
+          <div className={styles.cardItem} id="uploader">
+            <div className={styles.cardIcon}>📝</div>
+            <div className={styles.cardTitle}>Change Log</div>
+            <div className={styles.cardText}>
+              Các thay đổi gần đây trên Yuri Garden. Các phiên bản cập nhật và
+              thay đổi của web.
+            </div>
+            <a className={styles.cardLink} href="/changeLog/intro">
+              Xem từng bước <span className={styles.cardArrow}>→</span>
             </a>
           </div>
         </div>
