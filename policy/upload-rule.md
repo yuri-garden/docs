@@ -26,6 +26,7 @@ title: Rule đăng truyện
 - Nhóm **không được sử dụng bản dịch, hình ảnh hoặc tư liệu của nhóm khác** nếu không có sự đồng ý.
 - Khuyến khích các nhóm **ghi rõ thông tin nhóm dịch** trong phần mô tả để người đọc phân biệt và tránh bị reup.
 - Tuyệt đối **không được spam truyện trùng để chiếm hiển thị hoặc đẩy truyện của nhóm khác xuống**, vi phạm sẽ bị xử lý (ẩn truyện hoặc cảnh cáo).
+- Nếu nhóm đã lỡ tạo truyện đã có trên web hãy sử dụng tính năng **"Gộp truyện"** tại web upload để có thể gộp 2 truyện lại thành 1 và chuyển tất cả chapter của nhóm đã đăng trước đó sang truyện mới.
 
 
 ## 3. Quy định về nội dung
