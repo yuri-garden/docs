@@ -54,11 +54,9 @@ Người dùng cam kết:
 
 ## 5. Quyền sở hữu nội dung & bản quyền
 
-- Yuri Garden **không sở hữu bản quyền** truyện gốc (manga/manhwa/manhua).
-- Các tác phẩm thuộc về **tác giả & nhà xuất bản gốc**.
-- Các bản dịch thuộc về **nhóm dịch đăng tải** hoặc được ghi credit.
-- Nếu bạn là chủ sở hữu bản quyền và muốn yêu cầu gỡ nội dung, vui lòng liên hệ: **yurigarden.contact@gmail.com**  
-  → Chúng tôi sẽ xử lý trong **1–7 ngày** sau khi nhận được bằng chứng sở hữu hợp lệ.
+- **Yuri Garden không sở hữu bản quyền của bất kì bộ truyện (manga/manhwa/manhua) nào được đăng trên Yuri Garden**. Các tác phẩm thuộc về chủ sỡ hữu hợp pháp của nó. Các bản dịch được thực hiện và thuộc về những nhóm dịch đăng tải hoặc được nêu đến trong credit (thường là ảnh nằm ở đầu hoặc cuối mỗi chương truyện).
+
+- **Nếu một cá nhân, tác giả hoặc nhà xuất bản không muốn sản phẩm mà mình đang sở hữu bản quyền xuất hiện trên Yuri Garden**. Hãy liên hệ với chúng tôi qua địa chỉ yurigarden.contact@gmail.com. Chúng tôi sẽ xem xét và gỡ/ẩn nội dung đấy trong từ 1-7 ngày. Tuy nhiên, chúng tôi sẽ cần bạn chứng minh rằng bạn đang là chủ sở hữu hợp pháp của sản phẩm bạn yêu cầu gỡ xuống.
 
 ---
 
@@ -90,8 +88,6 @@ Vi phạm có thể dẫn đến:
 
 - Yuri Garden cung cấp nền tảng để cộng đồng chia sẻ nội dung do **người dùng tự đăng**.
 - Yuri Garden không đảm bảo tính chính xác, đầy đủ của nội dung và **không chịu trách nhiệm** cho nội dung do người dùng đăng tải.
-- Yuri Garden không sở hữu bản quyền của bất kì bộ truyện (manga/manhwa/manhua) nào được đăng trên Yuri Garden. Các tác phẩm thuộc về chủ sỡ hữu hợp pháp của nó. Các bản dịch được thực hiện và thuộc về những nhóm dịch đăng tải hoặc được nêu đến trong credit (thường là ảnh nằm ở đầu hoặc cuối mỗi chương truyện).
-- Nếu một cá nhân, tác giả hoặc nhà xuất bản không muốn sản phẩm mà mình đang sở hữu bản quyền xuất hiện trên Yuri Garden. Hãy liên hệ với chúng tôi qua địa chỉ yurigarden.contact@gmail.com. Chúng tôi sẽ xem xét và gỡ/ẩn nội dung đấy trong từ 1-7 ngày. Tuy nhiên, chúng tôi sẽ cần bạn chứng minh rằng bạn đang là chủ sở hữu hợp pháp của sản phẩm bạn yêu cầu gỡ xuống.
 
 ---
 
