@@ -42,7 +42,7 @@ Ngoài ra đôi khi mình cũng có vài người bạn chung đam mê Yuri hỗ
 
 Hiện tại **Yuri Garden sẽ không mở donate**.  
 
-Lý do đơn giản là mình muốn giữ web *tự do, thoải mái và không ràng buộc tài chính* từ cộng đồng ❤️.  
+Lý do đơn giản là mình muốn giữ web *tự do, thoải mái và không ràng buộc tài chính* ❤️.  
 Ngoài ra, để duy trì lâu dài và minh bạch, donate không phải lựa chọn phù hợp với định hướng hiện tại.
 
 Nếu trong tương lai cần thêm kinh phí, web **có thể xem xét đặt quảng cáo mức tối thiểu** — ưu tiên **không làm ảnh hưởng đến trải nghiệm của mọi người** 💖.
