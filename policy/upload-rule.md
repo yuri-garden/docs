@@ -31,13 +31,12 @@ title: Rule đăng truyện
 
 ## 3. Quy định về nội dung
 
-- Không đăng tải nội dung vi phạm pháp luật, xúc phạm danh dự, nhân phẩm của người khác.
+- Không đăng tải nội dung xúc phạm danh dự, nhân phẩm của người khác.
 - Không đăng tải những nội dung cổ xúy, tuyên truyền chống phá, gây nguy hại tới chính trị, văn hóa và nhà Nước.
 
 ## 4. Quy định về reup nội dung
 
 - Không được phép reup truyện của nhóm khác/nơi khác lên web nếu chưa có sự đồng ý rõ ràng từ nhóm đó. Mỗi chương truyện đều là kết quả của sự đầu tư thời gian và công sức quý giá của các nhóm. Xin hãy tôn trọng những nỗ lực đó.
-- Nếu nhóm muốn reup truyện, xin hãy liên hệ với đội ngũ admin để kiểm duyệt trước.
 - Reup trái phép, chỉnh sửa logo/credit, hoặc xóa thông tin nhóm gốc sẽ bị xử lý nghiêm (ẩn truyện, cảnh cáo, khóa quyền upload tạm thời hoặc vĩnh viễn).
 
 ## 5. Quy định về việc gắn donate

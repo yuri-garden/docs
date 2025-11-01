@@ -20,6 +20,24 @@ Nếu đặt tên sai, có thể dẫn đến trường hợp hiển thị khôn
 👉 Vui lòng xem hướng dẫn chi tiết tại:  **[Lưu ý khi đặt tên chapter](/docs/upload/chapter_name)**
 
 ---
+## Cache dữ liệu trên hệ thống
+
+Để đảm bảo hiệu suất server và mang lại trải nghiệm mượt mà cho người dùng, hệ thống sẽ cache (lưu tạm) dữ liệu trong khoảng **1 giờ đến 24 giờ**, tùy loại nội dung.
+
+Vì vậy, sau khi bạn upload hoặc chỉnh sửa chapter trên trang upload, nội dung có thể **chưa hiển thị ngay lập tức** trên trang đọc do cache vẫn còn hiệu lực.
+
+### Cách kiểm tra nội dung mới cập nhật
+
+Bạn có thể sử dụng một trong hai cách sau:
+
+- **Chờ cache tự làm mới** (thường trong vòng ~1 giờ)
+- **Mở web truyện bằng tab ẩn danh / private mode** để xem nội dung mới nhất
+
+> 💡 *Mẹo:* Nếu bạn đã chỉnh sửa xong và muốn kiểm tra nhanh, hãy dùng tab ẩn danh — đơn giản mà hiệu quả.
+
+
+
+---
 
 ## Dung lượng mỗi ảnh không vượt quá 7MB
 

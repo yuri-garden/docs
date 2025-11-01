@@ -35,7 +35,7 @@ Yuri Garden có thể chứa nội dung 18+ bao gồm hình ảnh/ảnh minh h�
 - Nội dung 18+ sẽ được **dán nhãn rõ ràng trên hệ thống**.
 - Truy cập nội dung 18+ yêu cầu **xác nhận đủ 18 tuổi**.
 - Người dùng **không được cố tình giả mạo độ tuổi** hoặc sử dụng thủ thuật để truy cập trái phép.
-- Nội dung 18+ tuyệt đối **không được sử dụng với mục đích chia sẻ trái phép, xúc phạm, hoặc quảng bá nội dung vi phạm pháp luật**.
+- Nội dung 18+ tuyệt đối **không được sử dụng với mục đích chia sẻ trái phép, xúc phạm, hoặc quảng bá nội dung bị cấm**.
 
 Yuri Garden **không chịu trách nhiệm** nếu người dùng tự ý truy cập nội dung không phù hợp với độ tuổi của mình và cung cấp thông tin gian dối.
 
@@ -46,7 +46,6 @@ Yuri Garden **không chịu trách nhiệm** nếu người dùng tự ý truy c
 Người dùng cam kết:
 
 - Chỉ sử dụng dịch vụ cho **mục đích hợp pháp**.
-- Không đăng tải hoặc chia sẻ nội dung vi phạm pháp luật, bản quyền, thuần phong mỹ tục.
 - Bảo mật tài khoản, mật khẩu của mình; mọi hành vi từ tài khoản sẽ do người dùng chịu trách nhiệm.
 - Không gây rối, spam, hoặc làm ảnh hưởng đến trải nghiệm của người dùng khác.
 
@@ -73,14 +72,13 @@ Người dùng cam kết:
 Nghiêm cấm:
 
 - Bình luận mang tính xúc phạm, kích động thù địch, gây war, phân biệt giới tính/chủng tộc, khiêu khích hoặc chống phá Nhà nước Cộng hoà Xã hội Chủ nghĩa Việt Nam.
-- Chia sẻ nội dung đồi trụy vi phạm pháp luật, nội dung trẻ em, nội dung bóc lột người thật.
+- Chia sẻ nội dung trẻ em, nội dung bóc lột người thật.
 - Khai thác lỗ hổng, cố tình phá hoại hoặc tấn công hệ thống.
 - Sử dụng bot hoặc công cụ tự động gây tải lớn trái phép lên server.
 
 Vi phạm có thể dẫn đến:
 
 - Khoá tài khoản tạm thời hoặc vĩnh viễn.
-- Báo cáo cho cơ quan chức năng (nếu vi phạm pháp luật).
 
 ---
 
