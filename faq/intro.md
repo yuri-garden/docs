@@ -11,10 +11,6 @@ Tại đây, chúng tôi tổng hợp những thắc mắc phổ biến nhất t
 Bạn có thể tìm thấy giải đáp về:
 
 - 📖 Cách đọc truyện và sử dụng các tính năng trên web  
-- 🛠 Hướng dẫn upload truyện & quản lý nhóm dịch  
-- 👥 Quy định dành cho nhóm dịch & chính sách đăng truyện  
-- 🔐 Tài khoản, bảo mật dữ liệu và quyền riêng tư  
-- 💎 Tính năng hỗ trợ nhóm dịch & hệ thống donate  
 - 🌿 Cách xử lý các lỗi thường gặp khi sử dụng Yuri Garden  
 - ⚙️ **Cách thức vận hành & duy trì nền tảng Yuri Garden**  
   (bao gồm chi phí duy trì server, sự đóng góp của cộng đồng và định hướng phát triển)
