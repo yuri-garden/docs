@@ -25,8 +25,8 @@ title: Rule đăng truyện
 - Mỗi bản dịch sẽ được xem là **một phiên bản riêng biệt**, người đọc có thể lựa chọn theo sở thích.
 - Nhóm **không được sử dụng bản dịch, hình ảnh hoặc tư liệu của nhóm khác** nếu không có sự đồng ý.
 - Khuyến khích các nhóm **ghi rõ thông tin nhóm dịch** trong phần mô tả để người đọc phân biệt và tránh bị reup.
-- Tuyệt đối **không được spam truyện trùng để chiếm hiển thị hoặc đẩy truyện của nhóm khác xuống**, vi phạm sẽ bị xử lý (ẩn truyện hoặc cảnh cáo).
 - Nếu nhóm đã lỡ tạo truyện đã có trên web hãy sử dụng tính năng **"Gộp truyện"** tại web upload để có thể gộp 2 truyện lại thành 1 và chuyển tất cả chapter của nhóm đã đăng trước đó sang truyện mới.
+- Khi đặt tên chap vui lòng tuân thủ các quy định tại:  **[Lưu ý khi đặt tên chapter](/docs/upload/chapter_name)**
 
 
 ## 3. Quy định về nội dung
@@ -55,8 +55,7 @@ title: Rule đăng truyện
 ## 7. Quy định về đăng tải truyện
 
 - Chất lượng truyện phải đảm bảo rõ ràng, không bị mờ hoặc méo. Dung lượng mỗi ảnh không được vượt quá 7MB để đảm bảo tốc độ tải trang.
-- Nhóm dịch cần phải có ít nhất 1 tác phẩm (trong một tháng kể từ khi nhận quyền upload)
-- Trong 6 tháng nhóm dịch không hoạt động sẽ đổi trạng thái thành "Không hoạt động"
+- Nhóm dịch cần phải có ít nhất 1 tác phẩm (trong một tháng kể từ khi nhận quyền upload).
 
 ## 8. Xử lý vi phạm
 

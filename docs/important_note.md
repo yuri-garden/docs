@@ -1,31 +1,80 @@
 ---
-sidebar_position: 2
-
+sidebar_position: 3
+title: "Lưu ý quan trọng"
 ---
+
 # Lưu ý quan trọng
 
-Dưới đây là những lưu ý quan trọng khi upload truyện các bạn vui lòng đọc kĩ trước khi có ý định upload truyện lên web
+Trước khi upload truyện lên Yuri Garden, vui lòng đọc kỹ các lưu ý dưới đây để đảm bảo truyện được hiển thị đúng chuẩn và mang lại trải nghiệm tốt nhất cho người đọc.
 
-## Dung lượng mỗi ảnh không quá 7MB
+---
 
-Lý do có lưu ý này không phải vì mình sợ tốn dung lượng server mà vì trải nghiệm của người dùng là chính.
+## Đặt tên Chapter đúng chuẩn
 
-Mình sẽ lấy ví dụ thực tế và dễ hiểu: Mỗi chapter truyện có khoảng 20-30 trang. Nếu mỗi trang có dung lượng là 7MB thì tổng 1 chapter truyện nó sẽ khoảng 140-210Mb. Nếu tốc độ mạng của người dùng là 1Mb/s thì phải tốn khoảng 140-210s (khoảng từ 2-3 phút) chỉ để load 1 chapter. ***Ví dụ này trên thực tế có thể sẽ không chính xác vì nó sẽ ảnh hưởng thêm nhiều yếu tố bên ngoài***
+Hệ thống sẽ tự động sinh tên chapter theo cấu trúc mặc định.  
+Nếu đặt tên sai, có thể dẫn đến trường hợp hiển thị không đúng, ví dụ:
 
-Vậy nên việc tối ưu hóa một trang truyện rất là quan trọng để nâng cao trải nghiệm của người đọc. Trên thực tế có rất nhiều cách để tối ưu hóa dung lượng ảnh mà không làm thay đổi chất lượng. Các nhóm có thể tra cứu và tham khảo thêm.
+- `Chapter 1 - Chapter 1 Mở đầu`
+- `Chapter 2 - Thông báo của truyện`
 
-## Thêm tên tác giả hoặc họa sĩ của truyện
+👉 Vui lòng xem hướng dẫn chi tiết tại:  **[Lưu ý khi đặt tên chapter](/docs/upload/chapter_name)**
 
-Hiện tại trên web có thể tự do thêm mới tên tác giả do tác giả rất nhiều và không thể gôm lại hết được
+---
 
-Dẫn đến có vài nhóm thường xuyên tạo mới mà không check các tác giả sẵn có => Rất khó cho web phát triển trong tương lai và gây khó chịu cho người dùng.
+## Dung lượng mỗi ảnh không vượt quá 7MB
 
-**Ví dụ**: `Naomi` và `Naomii` tuy là một nhưng có nhiều các viết => Nếu các nhóm cứ tạo mới sẽ tạo ra vô số tên mặc dù tất cả đều là 1 tác giả
+Hạn chế dung lượng không phải vì vấn đề lưu trữ, mà để đảm bảo **tốc độ tải trang và trải nghiệm người đọc**.
 
-**Các nhóm lưu ý khi thêm tác giả cho nhóm vui lòng kiểm tra kĩ các tác giả hiện có, nếu đã có thì hãy sử dụng không nên tạo mới bừa bãi**
+Ví dụ minh họa:
 
-## Kích thước ảnh
+- 20–30 trang/chapter
+- Nếu mỗi trang ~7MB → tổng ~140–210MB/chapter
+- Người dùng mạng ~1Mbps → mất **2–3 phút** chỉ để load 1 chapter
 
-Hiện tại các nền tảng web chỉ load ảnh tốt nhất ở kích thước width < 1300 pixel. 
+> ⚠️ *Con số mang tính minh họa — thực tế có thể thay đổi theo nhiều yếu tố.*
 
-Vì vậy khi nhóm upload truyện nếu width của ảnh > 1300 pixel thì **web sẽ tự động convert** xuống còn width = 1300 pixel.
+💡 **Hãy tối ưu ảnh trước khi upload** — có nhiều công cụ/ứng dụng giúp giảm dung lượng nhưng vẫn giữ chất lượng tốt.
+
+---
+
+## Thêm tác giả / họa sĩ đúng cách
+
+Website cho phép thêm tác giả mới, tuy nhiên nhiều nhóm tạo trùng tên do không kiểm tra trước.
+
+Ví dụ:
+
+| Sai | Đúng |
+|---|---|
+| `Naomi` | `Naomi` *(đã có rồi — dùng lại)* |
+| `Naomii` *(tạo mới không cần thiết)* | |
+
+❗ *Việc tạo trùng hoặc biến thể tên gây rối dữ liệu và ảnh hưởng đến hệ thống trong tương lai.*
+
+👉 **Trước khi thêm tác giả/họa sĩ, hãy tìm và kiểm tra — nếu đã có, vui lòng dùng lại.**
+
+---
+
+## Kích thước ảnh đề xuất
+
+Trình xem truyện hoạt động tốt nhất với ảnh có **chiều rộng ≤ 1300px**.
+
+Nếu ảnh của bạn vượt quá kích thước này:
+
+> ✅ **Website sẽ tự động giảm còn 1300px width**
+
+💡 Gợi ý: Để đảm bảo chất lượng hiển thị tối ưu, hãy chuẩn bị ảnh đúng kích thước ngay từ đầu.
+
+---
+
+## ✅ Tóm tắt nhanh
+
+| Quy tắc | Lý do |
+|---|---|
+Đặt tên chapter đúng format | Tránh lỗi hiển thị, dễ theo dõi  
+Ảnh ≤ 7MB | Tối ưu tốc độ đọc truyện  
+Không tạo trùng tác giả | Giữ dữ liệu hệ thống sạch & chuẩn  
+Ảnh ≤ 1300px | Chuẩn hiển thị web, tự tối ưu chất lượng  
+
+---
+
+🎯 *Tuân thủ những lưu ý trên giúp hệ thống hoạt động mượt mà và người đọc có trải nghiệm tốt hơn. Cảm ơn bạn đã đóng góp cho Yuri Garden!*
